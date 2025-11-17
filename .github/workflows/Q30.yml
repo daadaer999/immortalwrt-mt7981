@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder 128M
+name: Q30
 
 on:
   repository_dispatch:
